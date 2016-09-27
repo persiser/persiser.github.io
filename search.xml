@@ -9,6 +9,9 @@
       <content type="html"><![CDATA[<pre><code>   我不知道该说些什么，就随便说了这句话。
 #&lt;!--more--&gt;
 给个微信二维码吧！加个好友！
+{% raw %}
+content
+{% endraw %}
 </code></pre>]]></content>
     </entry>
     
